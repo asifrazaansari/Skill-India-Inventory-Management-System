@@ -1,0 +1,152 @@
+{
+    "001": {
+        "Item Name": "wadapav",
+        "Item Quantity": "100",
+        "Item Rate": "15",
+        "Item Category": "piece"
+    },
+    "002": {
+        "Item Name": "samosa",
+        "Item Quantity": "70",
+        "Item Rate": "10",
+        "Item Category": "piece"
+    },
+    "003": {
+        "Item Name": "momos",
+        "Item Quantity": "50",
+        "Item Rate": "130",
+        "Item Category": "plate"
+    },
+    "004": {
+        "Item Name": "Chilli Potato",
+        "Item Quantity": "150",
+        "Item Rate": "150",
+        "Item Category": "plate"
+    },
+    "005": {
+        "Item Name": "veg momos",
+        "Item Quantity": "50",
+        "Item Rate": "120",
+        "Item Category": "plate"
+    },
+    "006": {
+        "Item Name": "Veggie",
+        "Item Quantity": "70",
+        "Item Rate": "65",
+        "Item Category": "plate"
+    },
+    "007": {
+        "Item Name": "Chicken",
+        "Item Quantity": "170",
+        "Item Rate": "79",
+        "Item Category": "piece"
+    },
+    "008": {
+        "Item Name": "Mcmuffin Veg Meal",
+        "Item Quantity": "200",
+        "Item Rate": "95",
+        "Item Category": "plate"
+    },
+    "009": {
+        "Item Name": "Egg & Cheese Mcmuffin  ",
+        "Item Quantity": "50",
+        "Item Rate": "93",
+        "Item Category": "plate"
+    },
+    "010": {
+        "Item Name": "filet-o-fish",
+        "Item Quantity": "25",
+        "Item Rate": "95",
+        "Item Category": "plate"
+    },
+    "011": {
+        "Item Name": "Vegetarian footlong",
+        "Item Quantity": "75",
+        "Item Rate": "75",
+        "Item Category": "plate"
+    },
+    "012": {
+        "Item Name": "Footlong",
+        "Item Quantity": "95",
+        "Item Rate": "95",
+        "Item Category": "plate"
+    },
+    "013": {
+        "Item Name": "Egg & Cheese",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "plate"
+    },
+    "014": {
+        "Item Name": "Bacon & Egg",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "plate"
+    },
+    "015": {
+        "Item Name": "noodles",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "plate"
+    },
+    "016": {
+        "Item Name": "Chicken Ham & Egg",
+        "Item Quantity": "70",
+        "Item Rate": "20",
+        "Item Category": "plate"
+    },
+    "017": {
+        "Item Name": "Econo Meal (McAloo Tikki + Small Fries + Coke)",
+        "Item Quantity": "250",
+        "Item Rate": "250",
+        "Item Category": "plate"
+    },
+    "018": {
+        "Item Name": "Chicken Mcnuggets 6 Pcs",
+        "Item Quantity": "40",
+        "Item Rate": "95",
+        "Item Category": "piece"
+    },
+    "019": {
+        "Item Name": "Happy Meal (Burger + Coke + Toy)",
+        "Item Quantity": "170",
+        "Item Rate": "200",
+        "Item Category": "plate"
+    },
+    "020": {
+        "Item Name": "Soft Serve (Strawberry / Chocolate)",
+        "Item Quantity": "250",
+        "Item Rate": "55",
+        "Item Category": "plate"
+    },
+    "021": {
+        "Item Name": "Chocolate Brownie",
+        "Item Quantity": "700",
+        "Item Rate": "20",
+        "Item Category": "ice-cream"
+    },
+    "022": {
+        "Item Name": "Shakes (small)",
+        "Item Quantity": "10",
+        "Item Rate": "60",
+        "Item Category": "shake"
+    },
+    "023": {
+        "Item Name": "Croissant Garden Veg Sandwich",
+        "Item Quantity": "80",
+        "Item Rate": "25",
+        "Item Category": "plate"
+    },
+    "024": {
+        "Item Name": "Focaccia Bunwich",
+        "Item Quantity": "70",
+        "Item Rate": "90",
+        "Item Category": "plate"
+    },
+    "025": {
+        "Item Name": " Potato Crisper",
+        "Item Quantity": "50",
+        "Item Rate": "25",
+        "Item Category": "plate"
+    }
+}

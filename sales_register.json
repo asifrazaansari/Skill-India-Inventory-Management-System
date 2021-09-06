@@ -1,0 +1,50 @@
+{
+    "2021-09-01 23:16:39.504696": {
+        "Item Name": "samosa",
+        "Item Quantity": 2,
+        "Item Rate": 10.0,
+        "Amount": 20.0
+    },
+    "2021-09-02 23:17:06.215207": {
+        "Item Name": "samosa",
+        "Item Quantity": 4,
+        "Item Rate": 10.0,
+        "Amount": 40.0
+    },
+    "2021-09-03 23:19:14.787175": {
+        "Item Name": "Wada Pav",
+        "Item Quantity": 20,
+        "Item Rate": 15.0,
+        "Amount": 300.0
+    },
+    "2021-09-04 17:45:12.462812": {
+        "Item Name": "Wada Pav",
+        "Item Quantity": 5,
+        "Item Rate": 15.0,
+        "Amount": 75.0
+    },
+    "2021-09-04 17:52:22.592896": {
+        "Item Name": "Wada Pav",
+        "Item Quantity": 9,
+        "Item Rate": 15.0,
+        "Amount": 135.0
+    },
+    "2021-09-04 17:53:33.437146": {
+        "Item Name": "Wada Pav",
+        "Item Quantity": 12,
+        "Item Rate": 15.0,
+        "Amount": 180.0
+    },
+    "2021-09-04 17:56:59.390534": {
+        "Item Name": "momos",
+        "Item Quantity": 6,
+        "Item Rate": 130.0,
+        "Amount": 780.0
+    },
+    "2021-09-04 18:05:30.233153": {
+        "Item Name": "momos",
+        "Item Quantity": 7,
+        "Item Rate": 130.0,
+        "Amount": 910.0
+    }
+}
